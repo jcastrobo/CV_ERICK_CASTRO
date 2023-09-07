@@ -1,0 +1,33 @@
+project:
+  type: website
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: "#008B00"
+    search: true
+    right:
+      - text: "About"
+        file: index.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Work experience"     
+        file: Experience.qmd
+      - text: "Research experience"     
+        file: Res_experience.qmd
+      - text: "Skills"
+        file: skills.qmd
+      - text: "Current research"
+        file: Current_research.qmd
+  title: "Erick Castro"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fontsize: 1.6em
+    layout: sidebar-left
+editor: visual
+

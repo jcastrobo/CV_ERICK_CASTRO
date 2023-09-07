@@ -1,0 +1,101 @@
+/* css styles */
+.colorbar{
+  background.color: gren n4
+}
+
+.navbar{
+  background-color: "#B4D4DA"
+  background-image: url('/home/erickcastro/Descargas/DSC_3432 Jhon Castro.jpg');
+}
+
+/* Estilos para la imagen */
+.text_param{
+  text-align: justify;
+  background-color: #B4D4DA;
+  font-size: 25px;
+  line-height: 1.5;
+  color: #DFEBF4 ;
+}
+
+body{
+  background-color:#1E1E1E;
+}
+
+.contenedor{
+  background-color:#1E1E1E  ;
+}
+
+.around-profile img{
+  float: left;
+  margin-right: 30px;
+  width: 300px;
+}
+
+.aroun_img img{
+  float: left;
+  margin-right: 30px;
+  width: 400px;
+}
+
+.ri-im img{
+  float: right;
+  margin-left: 30px;
+  width: 420px;
+  height: 320px;
+}
+
+.trans img{
+  float: right;
+  margin-left: 30px;
+  width: 420px;
+  height: 370px;
+}
+
+
+.roun-mancha img{
+  float: left;
+  margin-right: 30px;
+  width: 350px;
+  height:300px;
+}
+
+
+.text-around-image {
+  float: left; /* Flota la imagen a la izquierda */
+  margin-right: 30px; /* Margen derecho para separación entre imagen y texto */
+  margin-bottom: 30px; /* Margen inferior para separación entre imagen y otros elementos */
+  max-width: 10%; /* Limita el ancho de la imagen para controlar el flujo del texto */
+  margin-right: 10px;
+}
+
+
+
+.text-container {
+    flex: 1; /* Ocupa el espacio restante en el contenedor */
+}
+
+.text-container p {
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+
+.imagen-ajustada {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+img {
+  transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.1); /* Escala la imagen al 110% del tamaño original */
+}
+
+

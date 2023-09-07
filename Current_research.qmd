@@ -1,0 +1,18 @@
+---
+title: ""
+---
+::: text_param 
+::: contenedor 
+# Current research
+
+## Publications in development
+
+### Scientific papers
+
+-   **Scientific Paper:** Castro, E., Tobón, C., and Manco Y. (2023). Ecohydrological factors controlling the spatio-temporal dynamics of soil moisture in subtropical catchments (near to submission). 
+
+-   **Scientific Paper:** Castro, E., and Tobón, C. (2023). Efficiency of machine learning algorithms to predict maximum discharge using scarce data in small basin experiment (near to submission).
+
+-   **Scientific Paper:** Castro, E., and Tobón, C. (2023). Geo-spatial patterns controlling the soil carbon distribution in Andean Paramos (In progress).
+:::
+:::

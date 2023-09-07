@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "148aecd8"
+  },
+  "about.qmd": {
+    "about.html": "7a5a766b"
+  },
+  "publications.qmd": {
+    "publications.html": "ac21bda3"
+  },
+  "Experience.qmd": {
+    "Experience.html": "077da0b4"
+  },
+  "Res_experience.qmd": {
+    "Res_experience.html": "176a34e1"
+  },
+  "skills.qmd": {
+    "skills.html": "5d40dd73"
+  },
+  "Current_research.qmd": {
+    "Current_research.html": "177c9ec7"
+  }
+}
