@@ -6,6 +6,7 @@ website:
   navbar:
     background: "#008B00"
     search: true
+    pinned: true
     right:
       - text: "About"
         file: index.qmd
