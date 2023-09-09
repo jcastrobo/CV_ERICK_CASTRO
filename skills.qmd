@@ -23,7 +23,7 @@ I also have skills like the training of Machine learning algorithms applied to g
 ::: ri-im
 ## Geographic information systems (GIS) skills
 
-![](sig2.jpg) I have skills related to the use of GIS, carrying out operations like: Cover/land use classification (unsupervised and supervised), dynamic vegetation operations like NDVI estimation, catchment delimitation, morphometry of catchments, map algebra, geo-statistical analysis, among others. The mentioned tasks are carried out in software like: Qgis, Arcgis, ILwis, R and Python. It is importatn to highlight that I am able to handle satellite information, derived from different geoportals and satellite, for instance: CHIRPS (Precipitation), MODIS (Evapotranspiration), SoilGrids (Soil properties), Alos palsar and STRM (DEM), SMAP (Soil moisture), Landsat, Google Earth Engine, among others.
+![](sig2.jpg) I have skills related to the use of GIS, carrying out operations like: Cover/land use classification (unsupervised and supervised), dynamic vegetation operations like NDVI estimation, catchment delimitation, morphometry of catchments, map algebra, geo-statistical analysis, among others. The mentioned tasks are carried out in software like: Qgis, Arcgis, ILwis, R and Python. It is important to highlight that I am able to handle satellite information, derived from different geoportals and satellite, for instance: CHIRPS (Precipitation), MODIS (Evapotranspiration), SoilGrids (Soil properties), Alos palsar and STRM (DEM), SMAP (Soil moisture), Landsat, Google Earth Engine, among others.
 :::
 :::
 :::
