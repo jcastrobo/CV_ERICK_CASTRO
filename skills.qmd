@@ -9,9 +9,9 @@ title: ""
 
 ## Programming skills
 
-![](drin.jpg) I am able to program in languages like: Python, R and Matlab, and generating automated tools for geo-spatial operations such as: Catchment delimitation, flow accumulations, drainage determination, linking API's to couple satelital information with local work environment, among others. The aforementioned is carried out using libraries like: Pcraster, Geopandas, Rasterio, among others. Likewise, I am able to generate climatic data inputs (Distributed precipitation, Evapotranspiration, Temperature, among other) at different map formats through automated way using python such as: .tiff, .map, among others. In addition, I am able to run hydrological model in the source code as well as integrating algorithms to calibrate, validate and uncertainty estimation.
+![](drin.jpg) I am able to program in languages like: Python, R and Matlab, and generating automated tools for geo-spatial operations such as: Catchment delimitation, flow accumulations, drainage determination, linking API's to couple satellite information with local work environment, among others. The aforementioned is carried out using libraries like: PCRaster, Geopandas, Rasterio, among others. Likewise, I am able to generate climatic data inputs (Distributed precipitation, Evapotranspiration, Temperature, among other) at different map formats through automated way using python such as: .tiff, .map, among others. In addition, I am able to run hydrological model in the source code as well as integrating algorithms to calibrate, validate and uncertainty estimation.
 
-On the other hand, I have skills handling big data bases as well as processing these under hydrological context. doing hydrological operations in R such as: Hydrological response indices, base flow separation, flow direction curves, kriging and geo-statistic for climatic analysis, downscaling, exploratory analysis in hydrology, among others.
+On the other hand, I have skills handling big databases as well as processing these under hydrological context. doing hydrological operations in R such as: Hydrological response indices, base flow separation, flow direction curves, kriging and geo-statistic for climatic analysis, downscaling, exploratory analysis in hydrology, among others.
 
 I also have skills like the training of Machine learning algorithms applied to geo-science, mainly in hydrology. I can implement different Machine learning models either of classification or regression; as well as algorithm to validate these models like K-fold, Cross validation, among others.
 :::
@@ -23,7 +23,7 @@ I also have skills like the training of Machine learning algorithms applied to g
 ::: ri-im
 ## Geographic information systems (GIS) skills
 
-![](sig2.jpg) I have skills related to the use of GIS, carrying out operations like: Cover/land use classification (unsupervised and supervised), dynamic vegetation operations like NDVI estimation, catchment delimitation, morphometry of catchments, map algebra, geo-statistical analysis, among others. The mentioned tasks are carried out in software like: Qgis, Arcgis, ILwis, R and Python. It is importatn to highlight that I am able to handle satellite information, derived from different geoportals and satellite, for instance: CHIRPS (Precipitation), Modis (Evapotranspiration), SoilGrids (Soil properties), Alos palsar and STRM (DEM), SMAP (Soil moisture), Landsat, Google Earth Engine, among others.
+![](sig2.jpg) I have skills related to the use of GIS, carrying out operations like: Cover/land use classification (unsupervised and supervised), dynamic vegetation operations like NDVI estimation, catchment delimitation, morphometry of catchments, map algebra, geo-statistical analysis, among others. The mentioned tasks are carried out in software like: Qgis, Arcgis, ILwis, R and Python. It is importatn to highlight that I am able to handle satellite information, derived from different geoportals and satellite, for instance: CHIRPS (Precipitation), MODIS (Evapotranspiration), SoilGrids (Soil properties), Alos palsar and STRM (DEM), SMAP (Soil moisture), Landsat, Google Earth Engine, among others.
 :::
 :::
 :::
@@ -33,10 +33,9 @@ I also have skills like the training of Machine learning algorithms applied to g
 ::: contenedor
 ## Hydrological modelling
 
-![](uncertainty.jpg) I have skills to make hydrological simulations by means of distributed, semi-distributed and lumped hydrological models such as: SPHY model (Distributed), Topmodel (Semi-distributed), HEC-HMS (Distributed and lumped), HYMOD (lumped model), HBV (lumped), SHIA (lumped), GR2M (lumped), among others. Moreover, for calibrating these models I have the skill to generate and use algorithms to calibrate theses models as well as uncertainty estimation. I have used my own scripts and the script of the CURE toolbox (Page et al., 2023), either in Matlab or Python, owing to I prefer the Generalized Likelihood Uncertainty Estimation (GLUE) approach in hydrological modelling. 
+![](uncertainty.jpg) I have skills to make hydrological simulations by means of distributed, semi-distributed and lumped hydrological models such as: SPHY model (Distributed), Topmodel (Semi-distributed), HEC-HMS (Distributed and lumped), HYMOD (lumped model), HBV (lumped), SHIA (lumped), GR2M (lumped), among others. Moreover, for calibrating these models I have the skill to generate and use algorithms to calibrate theses models as well as uncertainty estimation. I have used my own scripts and the script of the CURE toolbox (Page et al., 2023), either in Matlab or Python, owing to I prefer the Generalized Likelihood Uncertainty Estimation (GLUE) approach in hydrological modelling.
 
-In the case of hydraulic modelling, I have the skill to determine hydraulic behavior of rivers, assessing the probable maximum discharge based on the hydroprah estimation method (SCS, Snyder, Clark, unit model, among others) and synthetic hyetogram derived from IDF curves. ; to later determine the flood plains. These analysis I do using softwares like: HEC-HMS, HEC-RAS, Arcgis, Qgis, HEC-GeoRAS, R, Python, among others.
-
+In the case of hydraulic modelling, I have the skill to determine hydraulic behavior of rivers, assessing the probable maximum discharge based on the hydroprah estimation method (SCS, Snyder, Clark, unit model, among others) and synthetic hyetogram derived from IDF curves; to later determine the flood plains. These analysis I do using softwares like: HEC-HMS, HEC-RAS, Arcgis, Qgis, HEC-GeoRAS, R, Python, among others.
 :::
 :::
 :::
