@@ -27,9 +27,9 @@ In addition, I have the capacity to evaluate the hydraulic behavior of rivers ba
 
 It is important to emphasize that I am capable of conducting analyses and studies as mentioned earlier, using satellite data, radar data, and field measurements of hydrological, ecological, and meteorological variables. Regarding field measurements, I am qualified to implement hydro-meteorological monitoring, including the installation of meteorological stations (Davis Pro), discharge stations (level sensors like limnigraph or ultrasound sensors), rain gauges (Texas Instruments with Hobbo and Tinytag recorders), soil moisture stations (TDR-Campbell), among others. Concerning physical and biological aspects of ecosystems, I can perform soil sampling in the field for properties such as bulk density, hydraulic conductivity, infiltration, water retention curve, texture, among others.
 
-# Current develop
+# Current development
 
-Currently, I am master science candidate in Forest Management and Environmental Conservation of the National University of Colombia. In this program I am focused on studying about the ecohydrology of tropical forest and sub-tropical forest (Bolivian Tucuman Forest). My master science project is based on the study and implications of the land use change on the ecohydrological functioning of Bolivian Tucuman Forest and the link throughout different spatio-temporal scales (developing); as well as the parameter regionalization methods to evaluate ungauged catchments. I have taken courses like: Hydrological simulation, Spatial Statistical Analysis, Multivariate Statistic, Machine Learning Applied to Geosciences, Numerical Ecology among others.
+Currently, I am a Master of Science candidate in Forest Management and Environmental Conservation at the National University of Colombia. In this program, I am focused on studying the ecohydrology of tropical forests and sub-tropical forests (Bolivian Tucuman Forest). My Master's Science project is based on the study and implications of land use changes on the ecohydrological functioning of the Bolivian Tucuman Forest, and the linkages across different spatio-temporal scales that I am developing. I have taken courses such as Hydrological Simulation, Spatial Statistical Analysis, Multivariate Statistics, Machine Learning Applied to Geosciences, Numerical Ecology, among others.
 :::
 :::
 :::

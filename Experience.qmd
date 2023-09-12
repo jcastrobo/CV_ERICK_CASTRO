@@ -9,9 +9,9 @@ title: ""
 
 ## ![](mancha.jpg)
 
-I have four years of experience by making hydrological studies of catchments in the area of environmental sciences and projects.
+I have four years of experience in making hydrological studies of catchments in the area of environmental sciences and projects.
 
-I have three years of experience related to the hydro-meteorological monitoring in catchments of variables such as: Climate, discharge, soil moisture, rain, infiltration, among others.
+I have three years of experience related to hydro-meteorological monitoring in catchments, involving variables such as climate, discharge, soil moisture, rain, infiltration, among others.
 :::
 :::
 :::
@@ -21,7 +21,8 @@ I have three years of experience related to the hydro-meteorological monitoring 
 ::: ri-im
 ![](hec.jpeg)
 
-I have 2 year of experience doing hydrologic-hydraulic study by through independent consultancy, estimating the probable maximum discharge in function of rainfall inputs derived to the design storms; to risk assessment in urban areas as well as the flood plains and their hot spots. I have also done frequency analysis in hydrology to determine the occurrence probability of maximum events either of rainfall event or maximum peak flows.
+I have 2 years of experience conducting hydrologic-hydraulic studies through independent consultancy, estimating the probable maximum discharge in relation to rainfall inputs derived to the design storms; conducting risk assessments in urban areas, flood plains, and their hot spots. I have also conducted frequency analysis in hydrology to determine the probability of occurrence of maximum events, whether it's a rainfall event or maximum peak flows.
+
 :::
 :::
 :::
@@ -31,7 +32,7 @@ I have 2 year of experience doing hydrologic-hydraulic study by through independ
 ::: contenedor
 ![](idf5.jpg)
 
-I have 6 months of experience working with local communities in the topic of socio-hydrology, applying with them the Theory of Change (ToC); to train the local communities about the hydrological functioning of the Pàramo ecosystem to generate knowledge related to hydrology of Andean Páramo in terms of water quantity and quality, to raise awareness regarding the importance of Páramos in the water supply and empowering them in management and preservation of these ecosystems; as well as changing ideas over their economic activities like: replace the grassland for livestock and crops for eco-tourism or others.
+I have 6 months of experience working with local communities on the topic of socio-hydrology, applying the Theory of Change (ToC) to educate local communities about the hydrological functioning of the Pàramo ecosystem. The goal is to generate knowledge related to the hydrology of the Andean Páramo in terms of water quantity and quality, raise awareness regarding the importance of Páramos in the water supply, and empower them in the management and preservation of these ecosystems. Additionally, we aim to change ideas about their economic activities, such as replacing grasslands with eco-tourism or other alternatives instead of livestock and crops.
 :::
 :::
 :::
@@ -39,9 +40,9 @@ I have 6 months of experience working with local communities in the topic of soc
 ::: text_param
 ::: contenedor
 ::: ri-im
-![](section.jpeg) I have 2 year of experience simulating scenarios of land use change using distributed, semidistributed and lumped hydrological models in catchments.
+![](section.jpeg) I have 2 years of experience simulating scenarios of land use change using distributed, semi-distributed, and lumped hydrological models in catchments.
 
-Finally, I have taught in undergraduate courses of hydrology specific topics like: Frecuency analysis in hydrology, return period, IDF curves, Spatial processes in hydrology (Kriging, IDW, among others), hydrological response and indices to assess it (runoff ratio, water regulation index, R-B flashiness index, flow duration curve, among others), base flow separation methods, hydropedology, among others.
+Finally, I have taught specific topics in hydrology in undergraduate courses, such as frequency analysis in hydrology, return periods, IDF curves, spatial processes in hydrology (Kriging, IDW, among others), hydrological response and indices to assess it (runoff ratio, water regulation index, R-B flashiness index, flow duration curve, among others), base flow separation methods, and hydropedology, among others.
 :::
 :::
 :::
